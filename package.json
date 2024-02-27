@@ -2,7 +2,7 @@
   "name": "translate-text",
   "version": "1.0.0",
   "description": "The Rest API to translate the text from any language to another.",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
     "build": "npm i",
     "start": "node app.js"
